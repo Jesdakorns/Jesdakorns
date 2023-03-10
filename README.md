@@ -4,7 +4,7 @@ Hi 👋 My name is Jesdakorn Saelor
 Software Developer
 ------------------
 
-I graduated with a Bachelor's Degree in Software Engineering from Burapha University, Chonburi. I have experience designing, and developing solutions using a range of technologies and programming languages. I seeking to leverage development experience and hands-on technical expertise in a challenging role as a Developer.
+Allow me to introduce myself. I graduated with a bachelor's degree in Software Engineering from Burapha University, Chonburi. I have experience designing, and developing solutions using a range of technologies and programming languages. I seeking to leverage development experience and hands-on technical expertise in a challenging role as a developer.
 
 * 🌍  I'm based in Samut Prakan Province, Thailand
 * 🖥️  See my portfolio at [My Profile](http://jesdakorn.vercel.app/)
